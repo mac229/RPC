@@ -9,5 +9,7 @@ public class Client {
         System.out.println("Client");
 
         JsonRpcClient jsonRpcClient;
+
+        User user = new User();
     }
 }

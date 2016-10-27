@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/RPC.iml" filepath="$PROJECT_DIR$/RPC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Server/Server.iml" filepath="$PROJECT_DIR$/Server/Server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServerHttp/ServerHttp.iml" filepath="$PROJECT_DIR$/ServerHttp/ServerHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data/data.iml" filepath="$PROJECT_DIR$/data/data.iml" />
     </modules>
   </component>
 </project>

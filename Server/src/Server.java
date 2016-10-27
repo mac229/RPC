@@ -11,5 +11,7 @@ public class Server {
         BasicConfigurator.configure();
 
         JsonRpcServer jsonRpcServer;
+
+        User user = new User();
     }
 }
