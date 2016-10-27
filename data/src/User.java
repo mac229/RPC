@@ -1,5 +1,39 @@
 /**
- * Created by maciej on 27.10.16.
+ * Created by maciej on 26.10.16.
  */
 public class User {
+
+    private String userName;
+    private String firstName;
+    private String password;
+
+    public User(String userName, String firstName, String password) {
+        this.userName = userName;
+        this.firstName = firstName;
+        this.password = password;
+    }
+
+    public String getUserName() {
+        return userName;
+    }
+
+    public void setUserName(String userName) {
+        this.userName = userName;
+    }
+
+    public String getFirstName() {
+        return firstName;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getPassword() {
+        return password;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
 }
